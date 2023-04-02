@@ -1,6 +1,6 @@
 # PyTorch_Exercises
 
-Ch_00: PyTorch Fundamentals
+ch_00: PyTorch Fundamentals
 
 
 ch_01: PyTorch WorkFlow Fundamentals 
